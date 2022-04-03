@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body style="background-color: blanchedalmond">
+    <h1 class="ortala" style="color:red;" >Kebab Tarifi</h1>
+         <p >Evde kebap yapmayı sevenlerden misiniz? O zaman buyurun tarifime. Bu tarifimde sizlere Ali nazik kebabı nasıl yapılır? Ne ile yapılır? onlardan bahsedeceğim. Çoğu insanın damak zevkine hitap edeceğini düşündüğüm Ali nazik kebabını, istediğiniz zaman yapabilirsiniz.</p>
+         <p>Tarif/seymenbugay</p>
+              <h2 style="color: red;">4kişilik</h2>
+              <h2 style="color: red;" >hazırlanma süresi 30 dk</h2>
+              <h2 style="color: red;" >pişme süresi 1 saat</h2>
+
+              <h3 style="color: red;" class="ortala" >Malzemeler</h3>
+               
+               <li class="ortala" >soğan</li>
+               <li class="ortala" >salça</li>
+               <li class="ortala" >tereyağ</li>
+               <li class="ortala" >tuz</li>
+               <li class="ortala" >patlıcan</li>
+
+               <h3 style="color: red;" class="ortala" >Hadi Yapalım</h3>
+               
+               <li class="ortala" >kebabları şişe tak</li>
+               <li class="ortala" >ateşi yak</li>
+               <li class="ortala" >kebabları çevir</li>
+               <li class="ortala" >20 dk bekle</li>
+               <li class="ortala" >kebapları şişten çek</li>
+
+               <p style="margin-left: 1200PX;" >AFİYET OLSUN.....</p>
+</body>
+</html>
+
+
+
+
+
+
+.ortala {
+    text-align: center;
+  }
