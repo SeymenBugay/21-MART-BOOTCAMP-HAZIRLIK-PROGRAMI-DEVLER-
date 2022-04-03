@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Html Ödev 1</title> 
+    <link rel="" href="htmlödev1.css">
+</head>
+<body style="background-color: bisque;">
+     <h1 style="color: red; margin-top: 200px;margin-left:600px;">MÜZİK DÜKKANIM</h1>
+        <a style="margin-left: 640px;color: blue;" href="HAKKIMIZDA.html">HAKKIMIZDA</a>
+        <a style="color: blue;" href="ürünlerimiz.html">Ürünlerimize</a>
+        <a style="color: blue;" href="ANASAYFA.html">Anasayfa</a>
+      
+     <h2 style="color: purple;margin-left:690px ;" > Anasayfa</h2>
+         <p style="margin-left: 50px;">Seymen Otoya hoşgeldiniz.Bu sitede aradığınız motoru en iyi fiyat garantisiyle bulabileceğinizen emin olabilirsiniz.Ürünlerimize ürünlerimiz kısmından firmamız hakkınaki bilgilere hakkımızda kısmından ulaşabilirsiniz.</p>
+              <h3 style="margin-left: 650px;" >Sitemizde bulunan motorlar</h3>
+                  <ul style="margin-left:670px ;">REGAL RAPTOR SPYDER</ul>
+                  <ul style="margin-left: 670px;">HYOUSUNG GV 650</ul>
+                  <ul style="margin-left: 670px;">SUZUKİ VN 800</ul>
+              
+</body>
+</html>
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hakkımızda</title>
+</head>
+<body style="background-color: bisque;">
+    <h1 style="color: red; margin-top: 200px;margin-left:600px;">MÜZİK DÜKKANIM</h1>
+        <a style="margin-left: 640px;color: blue;" href="HAKKIMIZDA.html">HAKKIMIZDA</a>
+        <a style="color: blue;" href="ürünlerimiz.html">Ürünlerimize</a>
+        <a style="color: blue;" href="ANASAYFA.html">Anasayfa</a>
+    <h1 style="color: purple;margin-left: 690px;" >Hakkımızda</h1>
+         <p>Sahip olduğu değerlerin tamamını “müşteri memnuniyeti” merkezine koyan S&S Motors, Dünya’nın en iyi otomobillerini, markalara yakışacak hizmet kalitesi ile müşterileri ile buluşturmayı hedeflemiştir.
+
+            Öncelikle Super Cars diye de anılan en üst segment spor otomobillerin alım satımında uzmanlaşan S&S Motors, bu bilgi ve tecrübesini lüks binek otomobil ve yine lüks arazi taşıtları konusunda da engin deneyime taşımıştır. Bu sayede Türkiye' nin en büyük kurumsal ve köklü firmalarının araç portföylerini yönetmektedir.</p>
+         <h2 style="color: blue;" >Vizyonumuz</h2>
+         <p>2000 yılında köklü bir revizyona uğrayan Etiler lokasyonundan sonra, önemli bir yatırım ile 2012 yılında Fulya Showroomu hizmete alınmış, 3.000 m2’den fazla bir alanda, 200’e yakın premium aracın sergileneceği bir kompleks hizmete koyulmuştur.
+
+            Türkiye’nin konusundaki en büyük kompleksi haline gelen Fulya Showroomu, 2014’un sonlarına doğru yeni bir yatırım ile 1.000 m2 genişletilmiş ve sergilenebilecek araç kapasitesi 200’ün üzerine çıkarılmıştır.</p>
+         <h2 style="color: purple;" >Misyonumuz</h2>
+         <p>Fulya Showroom’unda premium araçlar ile beraber, dünyaca ünlü Ducati motorsikletleri de, yetkili satıcı ünvanı ile sergilenmeye başlamıştır.
+
+            S&S Motors’da Dünya’nın en iyi otomobillerini, markalara yakışacak hizmet kalitesi ile S&S Motors bünyesinde, daima “stokta” bulacaksınız..</p>
+
+
+            
+</body>
+</html>
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: bisque;" >
+    <h1 style="color: red; margin-top: 200px;margin-left:600px;">MÜZİK DÜKKANIM</h1>
+    <a style="margin-left: 640px;color: blue;" href="HAKKIMIZDA.html">HAKKIMIZDA</a>
+    <a style="color: blue;" href="ürünlerimiz.html">Ürünlerimize</a>
+    <a style="color: blue;" href="ANASAYFA.html">Anasayfa</a>
+       
+        <h2 style="color: purple;margin-left: 695px;" >Ürünlerimiz</h2>
+            <h3 style="margin-left: 695px;color: purple;">REGAL RAPTOR SPYDER</h3> 
+            <img style="margin-left: 600px;" src="https://www.njuskalo.hr/image-w920x690/chopperi/regal-raptor-spyder-350-cm3-slika-33166519.jpg" width="400px" height="400px" alt="">
+             
+            <h3 style="margin-left: 695px;color: purple;" >HYOUSUNG GV 650</h3>
+            <img style="margin-left: 600px;" src="https://avatars.mds.yandex.net/i?id=2a0000017a09a23ddc3ab183c93c20079212-4248470-images-thumbs&n=13" width="400px" height="400px" alt="">
+
+            <h3 style="margin-left: 675px;color: purple;">SUZUKİ VN 800</h3>
+            <img style="margin-left: 600px;" src="https://avatars.mds.yandex.net/i?id=ab01f32c75295a0111cfc8ce59aaa454-5734614-images-thumbs&n=13" width="400px" height="400px" alt="">
+</body>
+</html>
