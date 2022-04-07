@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>GoogleAnaSayfa</title>
+</head>
+<body>
+    <div style="margin-top: 250px;" align="center"><img src="https://web.archive.org/web/19990504112211im_/http://www.google.com/google.jpg" alt=""> </div>
+        <!--google logosu bitti burdan sonra arama yani navbar kısmı gelecel-->
+    
+        <div  align="center"><p><nav  class="navbar navbar-light bg-light uzat ">
+            <div  class="container-fluid">
+              <form  class="d-flex ">
+                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success" type="submit">Search</button>
+              </form>
+            </div>
+          </nav></p> </div>
+            
+          <!--navbar ended here .Boxes start here-->
+        
+          <div " class="kutum" style="margin-left: 400px;;margin-top: -7cm; " >
+              <h3>Special Searches</h3>
+               <ul> <a href="">linux Search</a>   </ul>
+               <ul> <a href=""></a>google search </ul>
+               
+           <div  style="margin-left: 300px;margin-top: -3cm;" class="kutum" >
+               <h3>Google Web Page</h3>   
+               <ul>  <a href="http://">design details</a>  </ul>
+               <ul>  <a href="http://">who design it</a> </ul>
+           </div>
+           <div  style="margin-left: 570px;margin-top: -3cm;" class="kutum" >
+                <h3>Google History</h3> 
+                <ul> <a href="http://">who found it</a> </ul>
+                <ul> <a href="http://">when it founded</a> </ul>
+            </div>
+            
+</body>
+</html>
+
+
+
+
+.uzat {
+    height: 300px;
+}
+
+.saga-kaydir{
+    float:right;
+    padding:0 0 10px 10px;
+    }
+
+    .kutum {
+        width:250px;
+        height: 100px;
+        background-color: aqua;
+        
+        margin:10px;
+     }
